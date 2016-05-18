@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name primarypoints)(type KiCad)(uri "$(KIPRJMOD)/primarypoints.pretty")(options "")(descr ""))
-)
