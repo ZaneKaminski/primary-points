@@ -1,4 +1,4 @@
-(module Housings_DFN_QFN:DFN-8-1EP_2x2mm_Pitch0.5mm (layer F.Cu) (tedit 58A9E184)
+(module primarypoints:OnSemi_UFDFN-8-1EP_1.8x1.2mm_Pitch0.4mm (layer F.Cu) (tedit 58A9E3E2)
   (descr "DFN8 2x2, 0.5P; CASE 506CN (see ON Semiconductor 506CN.PDF)")
   (tags "DFN 0.5")
   (attr smd)
@@ -26,7 +26,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 9 smd rect (at 0 -0.275) (size 0.35 0.55) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (pad 9 smd rect (at 0 0) (size 0.35 1.1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 0 0) (size 0.35 1.1) (layers F.Cu F.Mask))
   (model Housings_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
