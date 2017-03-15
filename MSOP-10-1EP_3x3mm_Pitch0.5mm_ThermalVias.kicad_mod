@@ -1,4 +1,4 @@
-(module Housings_SSOP:MSOP-10-1EP_3x3mm_Pitch0.5mm_ThermalVias (layer F.Cu) (tedit 58BE258B)
+(module primarypoints:MSOP-10-1EP_3x3mm_Pitch0.5mm_ThermalVias (layer F.Cu) (tedit 58C6F5B5)
   (descr "MSE Package; 10-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081664_I_MSE.pdf)")
   (tags "SSOP 0.5")
   (attr smd)
