@@ -1,5 +1,5 @@
 (module primarypoints:TI_DCK_SC-70-6 (layer F.Cu) (tedit 59AECA43)
-  (descr "DCK, SOT-363, SC-70-6")
+  (descr "Texas Instruments \"DCK\" SOT-363/SC-70-6")
   (tags "DCK SOT-363 SC-70-6")
   (attr smd)
   (fp_text reference REF** (at 0 -1.75) (layer F.SilkS)
