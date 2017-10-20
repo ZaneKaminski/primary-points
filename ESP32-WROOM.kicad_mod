@@ -1,4 +1,4 @@
-(module ESP32-WROOM (layer F.Cu) (tedit 57D08EA8)
+(module primarypoints:ESP32-WROOM (layer F.Cu) (tedit 57D08EA8)
   (fp_text reference REF** (at -11.557 9.017) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
