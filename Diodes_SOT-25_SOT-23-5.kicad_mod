@@ -1,5 +1,5 @@
-(module primarypoints:Diodes_SOD-25_SOT-23-5 (layer F.Cu) (tedit 59EC26E5)
-  (descr "5-pin SOT23 package")
+(module primarypoints:Diodes_SOT-25_SOT-23-5 (layer F.Cu) (tedit 59EC26E5)
+  (descr "5-pin SOT-23 package")
   (tags SOT-23-5)
   (attr smd)
   (fp_text reference REF** (at 0 -2.15) (layer F.SilkS)
