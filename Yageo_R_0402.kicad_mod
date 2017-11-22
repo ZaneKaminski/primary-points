@@ -1,5 +1,5 @@
 (module primarypoints:Yageo_R_0402 (layer F.Cu) (tedit 59E18648)
-  (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
+  (descr "Resistor SMD 0402, reflow soldering")
   (tags "resistor 0402")
   (attr smd)
   (fp_text reference REF** (at 0 -1) (layer F.SilkS)
