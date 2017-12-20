@@ -44,7 +44,7 @@
     (zone_connect 2))
   (pad 9 thru_hole circle (at 0 1) (size 0.508 0.508) (drill 0.254) (layers *.Cu)
     (zone_connect 2))
-  (model Housings_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_Pitch0.5mm.wrl
+  (model Housings_DFN_QFN.3dshapes/DFN-8-1EP_3x3mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
