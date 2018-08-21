@@ -1,4 +1,4 @@
-(module primarypoints:Vishay_SOD-323 (layer F.Cu) (tedit 5A63EA9D)
+(module stdpads:Vishay_SOD-323 (layer F.Cu) (tedit 5A63EA9D)
   (fp_text reference REF** (at 0 -1.25) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )

@@ -1,4 +1,4 @@
-(module primarypoints:C_1206 (layer F.Cu) (tedit 59E17484)
+(module stdpads:C_1206 (layer F.Cu) (tedit 59E17484)
   (descr "Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)")
   (tags "capacitor 1206")
   (attr smd)
